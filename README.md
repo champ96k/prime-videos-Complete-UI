@@ -5,9 +5,6 @@
 
 
 
-![UI Screen](https://i.ibb.co/M1WgwRM/pic1.jpg)
-
-
 
 
 
