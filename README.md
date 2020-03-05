@@ -1,19 +1,10 @@
-# prime_videos_ui
+# Amazone Prime Videos
 
-A new Flutter project.
 
-## Getting Started
+![UI Screen](https://i.ibb.co/qxDf30Y/iPhone.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI Screen](https://i.ibb.co/M1WgwRM/pic1.jpg)
 
 
 ![UI Screen](https://i.ibb.co/M1WgwRM/pic1.jpg)
@@ -34,3 +25,15 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![UI Screen](https://i.ibb.co/SXhmwYH/pic8.jpg)
+
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
