@@ -1,7 +1,7 @@
 # Amazone Prime Videos
 
 
-![UI Screen](https://i.ibb.co/qxDf30Y/iPhone.png)
+![UI Screen](https://i.ibb.co/zXMrSf3/iPhone.jpg)
 
 
 ![UI Screen](https://i.ibb.co/M1WgwRM/pic1.jpg)
